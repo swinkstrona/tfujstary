@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <title>Podróże</title>
+    </head>
+
+    <body>
+    <hl>Podróże po stolicach Europy</h>
+    <p>Na stronie znjadziesz informacje o stolicach europejskich:
+    <ul>
+    <li>poznasz najważniejsze zabytki i obiekty tych miast,</li>
+    <li>zobaczysz ciekawe miejsca na fotografiach,</li>
+    <li>poznasz ciekawostki historyczne tych miast.</li>
+    </ul></p>
+    </body>
+
+</html>
+
+    <table border="1">
+        <tr>
+	        <td><b>Państwo</b></td><td><b>Stolica</b></td>
+		</tr>		
+        <tr>
+		    <td>Austria</td><td>Wiedeń</td>
+		</tr>
+        <tr>
+		    <td>Dania</td><td>Kopenhaga</td>
+		</tr>
+		<tr>
+		    <td>Francja</td><td>Paryż</td>
+		</tr>
+		<tr>
+		    <td>Grecja</td><td>Ateny</td>
+		</tr>
+		<tr>
+		    <td>Polska</td><td>Warszawa</td>
+		</tr>
+	</table>
+	
+	<img src="young-leosia-żabson.gif">
+	
